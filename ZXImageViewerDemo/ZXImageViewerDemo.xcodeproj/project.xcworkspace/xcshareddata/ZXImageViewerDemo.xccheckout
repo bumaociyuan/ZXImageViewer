@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7379E605-0D21-45D0-B990-CD6A0938F74B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZXImageViewerDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E61DDB01-5BA8-423B-8C93-B8519702EDBD</key>
+		<string>ssh://github.com/bumaociyuan/ZXImageViewer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ZXImageViewerDemo/ZXImageViewerDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E61DDB01-5BA8-423B-8C93-B8519702EDBD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/bumaociyuan/ZXImageViewer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E61DDB01-5BA8-423B-8C93-B8519702EDBD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E61DDB01-5BA8-423B-8C93-B8519702EDBD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZXImageViewer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
